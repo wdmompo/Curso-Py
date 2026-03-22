@@ -1,4 +1,4 @@
-# P^reguntas Practicas
+# Preguntas Practicas
 
 ## Tu tarea es crear un programa en Python que simule un simple chatbot. Mientras escribes el código, quieres asegurarte de que es fácilmente comprensible tanto para ti como para tus compañeros de equipo. ¿Cuál de los siguientes elementos de la sintaxis de Python sería más crucial para organizar el flujo de diálogo del chatbot y hacer que el código sea legible? Selecciona la mejor respuesta.
 

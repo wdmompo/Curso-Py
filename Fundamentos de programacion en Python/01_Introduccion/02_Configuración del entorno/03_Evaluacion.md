@@ -1,4 +1,4 @@
-# 
+# Preguntas de practica
 
 ## Un usuario está configurando su entorno de desarrollo de Python y desea garantizar un proceso de instalación sin problemas con acceso a una amplia gama de paquetes preinstalados de uso común en la Ciencia de datos y el Aprendizaje automático. También desea poder gestionar fácilmente distintos entornos de proyecto y evitar conflictos entre paquetes. ¿Cuál de las siguientes herramientas satisfaría mejor sus necesidades? Seleccione la mejor respuesta.
 
