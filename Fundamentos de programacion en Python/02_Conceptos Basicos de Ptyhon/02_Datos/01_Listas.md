@@ -23,12 +23,10 @@ Las **listas** son estructuras de datos fundamentales en Python que permiten alm
 
 ## Características principales de las listas
 
-Las **listas** son estructuras de datos fundamentales en Python que permiten almacenar colecciones de elementos de forma flexible. A diferencia de otros lenguajes, pueden contener distintos tipos de datos al mismo tiempo, como números, cadenas, booleanos e incluso otras listas.
-
 Las listas en Python tienen tres atributos clave:
 
 ### 1. Orden (Organized storage)
-- Mantienen el orden en que los elementos fueron agregados.
+- 
 - Permiten acceder fácilmente a elementos específicos.
 - Son útiles cuando el orden importa (ej: procesos, eventos cronológicos, listas de tareas).
 
