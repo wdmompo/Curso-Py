@@ -544,11 +544,6 @@ Analizar resultados
 
 
 
-
-
-
-
-
 ## ¿Cuál describe mejor el concepto de agrupación en el contexto de las transformaciones de datos utilizando pandas? Seleccione la mejor respuesta.
 
 - Disposición de los datos en un orden específico para identificar patrones y valores atípicos.
